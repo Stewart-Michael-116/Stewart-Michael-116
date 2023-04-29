@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Stewart-Michael-116, aka Michael Stewart
 - I’m interested in Electrical Engineering, Computers, and Programming
-- I’m currently learning Electrical Engineering at CU Boulder
-- I’m looking to collaborate on Microcontroller and IoT Projects
+- I’m currently a systems engineer at DMC Inc.
 - 📫 How to reach me Phone: 303-718-4880 Email: stewart.michael116@gmail.com
